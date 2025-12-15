@@ -1,0 +1,207 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 250887554,
+      "message": {
+        "message_id": 61,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1733194321,
+        "text": "/venda",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 250887555,
+      "message": {
+        "message_id": 65,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1747417976,
+        "text": "/venda",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 250887556,
+      "message": {
+        "message_id": 66,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1747418126,
+        "text": "/venda",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 250887557,
+      "message": {
+        "message_id": 67,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1747418247,
+        "text": "/venda",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 250887558,
+      "message": {
+        "message_id": 68,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1747418347,
+        "text": "/venda",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 250887558,
+      "message": {
+        "message_id": 68,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1747418347,
+        "text": "/venda",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 250887559,
+      "message": {
+        "message_id": 69,
+        "from": {
+          "id": 1569057142,
+          "is_bot": false,
+          "first_name": "João Henrique",
+          "language_code": "pt-br"
+        },
+        "chat": {
+          "id": 1569057142,
+          "first_name": "João Henrique",
+          "type": "private"
+        },
+        "date": 1747418779,
+        "text": "/vendedor",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 9,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
